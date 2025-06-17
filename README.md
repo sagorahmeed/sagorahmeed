@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sagor</h1>
 <h3 align="center">A Dedicated Javascript developer</h3>
 
-Visit my portfolio website: https://sagorahmeed.github.io/imsagorahmmed/
+Visit my portfolio website: https://sagorahmmed.github.io/imsagorahmmed/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagorahmeed&label=Profile%20views&color=0e75b6&style=flat" alt="sagorahmeed" /> </p>
 
